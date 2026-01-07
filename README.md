@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Khaled! <br/>
+
+<h2>👨‍💻 MyProjects:</h2>
+
+- <b>Project 1...</b>
+  - [link](link)
+
+
+<h2> 🤳 My LinkedIn:</h2>
+
 
 <!--
 **KhaledGhanem0/khaledghanem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
