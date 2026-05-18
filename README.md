@@ -18,7 +18,7 @@ Real-time 3D drone detection and tracking using a stereo camera rig and YOLO —
 ---
 
 ### 🔒 [Multi-Zone Smart Security System](https://github.com/KhaledGhanem0/Smart-Security-System)
-Arduino-based security system with two-step authentication, multi-zone monitoring, and Wi-Fi alerts running on a non-blocking architecture.
+Arduino-based security system with two-step authentication, multi-zone monitoring, and Wi-Fi alerts.
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat-square)
 
