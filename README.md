@@ -1,26 +1,38 @@
-<h1>Hi, I'm Khaled! <br/>
+<div align="center">
 
-<!--
-<h2>👨‍💻 MyProjects:</h2>
+# Hi, I'm Khaled! 👋
 
-- <b>Project 1...</b>
-  - [link](link)
+### *Electrical and Electronics Engineer • Programmer*
 
+</div>
 
-<h2> 🤳 My LinkedIn:</h2>
--->
+<br/>
 
-<!--
-**KhaledGhanem0/khaledghanem0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 My Projects
 
-Here are some ideas to get you started:
+### 🚁 [Stereo Drone Tracker](https://github.com/Capstone-16/Stereo-Drone-Tracker)
+Real-time 3D drone detection and tracking using a stereo camera rig and YOLO — runs fully on edge hardware, no cloud needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF4B4B?style=flat-square) ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
+
+---
+
+### 🔒 [Multi-Zone Smart Security System](https://github.com/KhaledGhanem0/Smart-Security-System)
+Arduino-based security system with two-step authentication, multi-zone monitoring, and Wi-Fi alerts — all running on a non-blocking architecture.
+
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat-square)
+
+---
+
+### ⚡ [Custom PCB Shield for Multi-Zone Security System](https://github.com/KhaledGhanem0/PCB-Shield-Security-System)
+Two-layer Arduino Mega shield that replaces the breadboard prototype with a clean, manufacturable PCB.
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-007ACC?style=flat-square) ![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-E34F26?style=flat-square)
+
+<br/>
+
+## 🤳 Let's Connect
+
+<a href="https://linkedin.com/in/khaledghanem0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
