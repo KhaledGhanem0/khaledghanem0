@@ -18,7 +18,7 @@ Real-time 3D drone detection and tracking using a stereo camera rig and YOLO —
 ---
 
 ### 🔒 [Multi-Zone Smart Security System](https://github.com/KhaledGhanem0/Smart-Security-System)
-Arduino-based security system with two-step authentication, multi-zone monitoring, and Wi-Fi alerts — all running on a non-blocking architecture.
+Arduino-based security system with two-step authentication, multi-zone monitoring, and Wi-Fi alerts running on a non-blocking architecture.
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat-square)
 
@@ -28,6 +28,13 @@ Arduino-based security system with two-step authentication, multi-zone monitorin
 Two-layer Arduino Mega shield that replaces the breadboard prototype with a clean, manufacturable PCB.
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-007ACC?style=flat-square) ![Hardware Engineering](https://img.shields.io/badge/Hardware_Engineering-E34F26?style=flat-square)
+
+---
+
+### 🔐 [IoT Cyber Defense Pipeline](https://github.com/KhaledGhanem0/IoT-Cyber-Defense-Pipeline)
+End-to-end secured MQTT pipeline simulating a real-world IoT sensor network.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square) ![TLS](https://img.shields.io/badge/Mutual_TLS-009639?style=flat-square) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6600?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-8A2BE2?style=flat-square)
 
 <br/>
 
