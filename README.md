@@ -5,7 +5,7 @@
 ### *Electrical and Electronics Engineer • Programmer*
 
 > **Designing, drafting, and programming end-to-end systems** <br>
-> *from electrical CAD and PCB layout to embedded firmware and software integration.*
+> *from CAD software and PCB layout to embedded firmware and software integration.*
 
 </div>
 
