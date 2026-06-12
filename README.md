@@ -2,7 +2,7 @@
 
 # Hi, I'm Khaled! 👋
 
-### *Electrical and Electronics Engineer • Programmer*
+### *Electrical and Electronics Engineer*
 
 > **Designing, drafting, and programming end-to-end systems** <br>
 > *from CAD software and PCB layout to embedded firmware and software integration.*
