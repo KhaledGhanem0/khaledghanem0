@@ -62,6 +62,10 @@ Real-time 3D drone detection and tracking using a stereo camera rig and YOLO —
 <a href="https://linkedin.com/in/khaledghanem0">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="mailto:khaled@khaledghanem0.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=khaledghanem0&style=flat-square&label=" />
